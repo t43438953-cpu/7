@@ -41,7 +41,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp, nothing else competing for attention */}
       <div className="hero-mono flex items-center justify-between px-8 pt-8 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] sm:px-14">
-        <span>Aug 02</span>
+        <span>Aug 11</span>
         {/* <span>One more lap</span> */}
       </div>
 
