@@ -24,16 +24,16 @@ const images = [
 
 
 const captions = [
-  "Cutie 🥹",
+  "Cute Boy 🥹",
   "Baddie 😎",
   "Pretty ✨",
-  "My Love 🤍",
+  "My Bro 🤍",
   "Sunshine ☀️",
   "Angel 🪽",
-  "Beautiful 🌸",
-  "Dream Girl 💫",
-  "Queen 👑",
-  "Sweetheart 🍓",
+  "Handsome 🌸",
+  "Dream Boy 💫",
+  "King 👑",
+  "Beautiful 🍓",
   "Gorgeous 💕",
   "Little Star ⭐",
 ];
