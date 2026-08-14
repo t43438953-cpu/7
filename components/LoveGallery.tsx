@@ -29,7 +29,7 @@ const captions = [
   "Pretty ✨",
   "My Bro 🤍",
   "Sunshine ☀️",
-  "Angel 🪽",
+  "God 🪽",
   "Handsome 🌸",
   "Dream Boy 💫",
   "King 👑",
